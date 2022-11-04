@@ -116,7 +116,6 @@ void gibrid_sort(vector<vector<string>>& arr) {
 }
 int main()
 {
-    setlocale(LC_ALL, "rus");
     int size;
     int q = 0, z = 0;
     int counter = 0;
